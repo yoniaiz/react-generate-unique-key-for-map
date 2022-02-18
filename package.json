@@ -6,13 +6,21 @@
   "main": "dist/main.js",
   "module": "dist/module.js",
   "types": "dist/types.d.ts",
+  "keywords": [
+    "react",
+    "react-map",
+    "unique-keys"
+  ],
   "scripts": {
     "watch": "parcel watch",
     "build": "parcel build"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoniaiz/react-generate-unique-key-for-map"
+  },
+  "author": "yoniaiz",
+  "license": "MIT",
   "peerDependencies": {
     "react": "^17.0.2",
     "typescript": "^4.5.5"
