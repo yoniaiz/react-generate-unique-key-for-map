@@ -1,6 +1,6 @@
 {
   "name": "react-generate-unique-key-for-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create unique keys for map elements that don't have unique property",
   "source": "src/index.ts",
   "main": "dist/main.js",
