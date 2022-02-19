@@ -30,5 +30,8 @@
     "@parcel/transformer-typescript-types": "^2.3.1",
     "@types/react": "^17.0.39",
     "parcel": "^2.3.1"
+  },
+  "dependencies": {
+    "react-generate-unique-key-for-map": "^1.0.2"
   }
 }
