@@ -2,6 +2,12 @@
 
 Small helper library to generate unique keys for map in react when you don't have unique property.
 
+## Benefits
+
+The unique key stays persistent every re-render and won't cause rerenders of the component.
+So its a better alternative then passing just a unique generator function that will change the key every
+re-render or passing the index of the item.
+
 example
 
 ## Usage/Examples
